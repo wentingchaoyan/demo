@@ -1,7 +1,5 @@
-import {Text} from "react-native";
+import { Text } from "react-native";
 
 export default function Home() {
-    return (
-        <Text>hello world</Text>
-    )
+  return <Text>hello world</Text>;
 }
